@@ -1,0 +1,9 @@
+PSL 0.23.3 (+libicu/78.3) builtin=yes rules=10231
+co.uk public=1 registrable=(none)
+bbc.co.uk public=0 registrable=bbc.co.uk
+www.bbc.co.uk public=0 registrable=bbc.co.uk
+com public=1 registrable=(none)
+login.live.com public=0 registrable=live.com
+github.io public=1 registrable=(none)
+x.github.io public=0 registrable=x.github.io
+amiga.org public=0 registrable=amiga.org
